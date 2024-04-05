@@ -39,16 +39,13 @@ print(norm_of_matrix)
 ## Output:
 
 ### 1-Norm of a Matrix
-![Screenshot 2024-04-05 220629](https://github.com/Krishna23013541/Norm-of-a-matrix/assets/149557764/373d6fc7-9552-4d25-810b-83fa02244753)
-
+![Screenshot 2024-04-05 220912](https://github.com/Krishna23013541/Norm-of-a-matrix/assets/149557764/6d6ad2b3-ffa3-4bff-9337-6562f9cc66bf)
 
 ### 2-Norm of a Matrix
-![Screenshot 2024-04-05 220643](https://github.com/Krishna23013541/Norm-of-a-matrix/assets/149557764/93a17ea2-4550-4650-b49b-22dae5a570dd)
-
-
+![Screenshot 2024-04-05 220925](https://github.com/Krishna23013541/Norm-of-a-matrix/assets/149557764/cc09d05e-d23e-4e52-8645-0015ffa33dcb)
 
 ### Infinity Norm of a Matrix
-![Screenshot 2024-04-05 220706](https://github.com/Krishna23013541/Norm-of-a-matrix/assets/149557764/d3319739-09af-4933-a600-768f69f4738b)
+![Screenshot 2024-04-05 220935](https://github.com/Krishna23013541/Norm-of-a-matrix/assets/149557764/fb2eb70e-2dfe-4e9d-b672-ea0ce09e24f3)
 
 
 ## Result
